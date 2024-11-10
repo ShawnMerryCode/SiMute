@@ -20,7 +20,7 @@ object SiMute : Plugin() {
    \|_________|                     
                                
         """)
-        info("-------------------------------v1.0.0_BETA---")
+        info("-------------------------------v1.0.1_BETA---")
         info("SiMute loaded successfully!\n ")
     }
 }

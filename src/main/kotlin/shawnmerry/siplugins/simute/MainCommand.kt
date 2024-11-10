@@ -10,7 +10,7 @@ import taboolib.common.platform.function.info
 import taboolib.module.chat.component
 import taboolib.module.lang.asLangText
 
-@CommandHeader("mute")
+@CommandHeader("mute", permission = "muter")
 object MainCommand {
     @CommandBody
     val on = subCommand {
